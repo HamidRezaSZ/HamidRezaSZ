@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm Back-End Developer
+I’m a software engineer with experience in various frameworks such as Django, Flask, and others. I have developed websites and projects such as e-commerce, business, and artificial intelligence. I’m passionate about learning new skills and collaborating with others. I have both remote and in-person work experience.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-sadeghzadeh/) 
