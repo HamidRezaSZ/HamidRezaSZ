@@ -1,5 +1,5 @@
 # 💫About Me :
-I’m a software engineer with experience in various frameworks such as Django, Flask, and others. I have developed websites and projects such as e-commerce, business, and artificial intelligence. I’m passionate about learning new skills and collaborating with others. I have both remote and in-person work experience.
+I’m a software engineer with 2+ years of experience developing and building projects using Python and its frameworks like Django and Flask. I've built a variety of projects, websites, and bots including e-commerce platforms, business tools, and AI-powered projects. I thrive in collaborative environments and constantly seek opportunities to learn new skills and contribute to innovative projects.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-sadeghzadeh/) 
