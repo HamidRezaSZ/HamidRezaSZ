@@ -1,5 +1,5 @@
 # 💫About Me :
-I’m a software engineer with 2+ years of experience developing and building projects using Python and its frameworks (like Django and Flask) and Javascript. I've built a variety of projects, websites, and bots including e-commerce platforms, business tools, and AI-powered projects. I thrive in collaborative environments and constantly seek opportunities to learn new skills and contribute to innovative projects.
+I’m a software engineer with 3+ years of experience developing and building projects using Python and its frameworks (like Django and Flask) and Javascript. I've built a variety of projects, websites, and bots including e-commerce platforms, business tools, and AI-powered projects. I thrive in collaborative environments and constantly seek opportunities to learn new skills and contribute to innovative projects.
 I'm also passionate about building personal projects.
 
 ## 🌐Socials
