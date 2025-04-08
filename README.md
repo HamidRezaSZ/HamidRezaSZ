@@ -1,6 +1,5 @@
 # 💫About Me :
-I’m a software engineer with 3+ years of experience developing and building projects using Python and its frameworks (like Django and Flask) and Javascript. I've built a variety of projects, websites, and bots including e-commerce platforms, business tools, and AI-powered projects. I thrive in collaborative environments and constantly seek opportunities to learn new skills and contribute to innovative projects.
-I'm also passionate about building personal projects.
+I’m a software engineer with 3+ years of experience in designing, developing, and maintaining high-performance applications using Python and its frameworks (Django, Flask, FastAPI, etc.) and Node.js with TypeScript. Proficient in database management (PostgreSQL, MongoDB, Redis) and scalable architectures using Docker, Kubernetes, and Celery. Passionate about AI integration, automation, and system optimization. Excels in collaborative environments and continuously explores new technologies to enhance software efficiency.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-sadeghzadeh/) 
