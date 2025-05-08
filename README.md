@@ -14,6 +14,6 @@ I'm **HamidReza Sadeghzadeh**, a **Computer Engineering Student** at **Sharif Un
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidRezaSZ&layout=compact&theme=dracula)
 
-## Connect with Me
+## 🤝Connect with Me
 
 <a href="https://linkedin.com/in/hamidreza-sadeghzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidreza-sadeghzadeh" height="30" width="40" /></a>
