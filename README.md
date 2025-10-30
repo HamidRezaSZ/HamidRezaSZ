@@ -2,7 +2,7 @@
 
 ## 💫About Me
 
-I'm **HamidReza Sadeghzadeh**, a **Computer Engineering Student** at **Sharif University of Technology** and a passionate **Software Engineer** with 3+ years of experience in designing, developing, and maintaining high-performance applications using Python and its frameworks (Django, Flask, FastAPI, etc.) and Node.js with TypeScript. Proficient in database management (PostgreSQL, MongoDB, Redis) and scalable architectures using Docker, Kubernetes, and Celery. Passionate about AI integration, automation, and system optimization. Excels in collaborative environments and continuously explores new technologies to enhance software efficiency.
+I'm **HamidReza Sadeghzadeh**, a **Computer Engineering Student** at **Sharif University of Technology** and a passionate **Software Engineer** with 4+ years of professional experience in building, scaling, and optimizing backend systems and distributed applications. Skilled in Python (Django, FastAPI, Flask) and Node.js (TypeScript), with strong expertise in database management (PostgreSQL, MongoDB, Redis) and cloud-native environments (Docker, Kubernetes, Celery). Experienced in developing microservices, integrating AI/ML solutions, and automating workflows to improve efficiency. Adept at designing resilient architectures, collaborating across teams, and delivering high-quality products in fast-paced environments. Passionate about leveraging AI, automation, and distributed computing to create intelligent, scalable solutions.
 
 ## 💻Skills & Technologies
 
