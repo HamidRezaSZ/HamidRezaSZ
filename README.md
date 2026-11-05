@@ -21,10 +21,10 @@ I'm comfortable owning systems end-to-end — schema design, async processing wi
 **AI & ML:** LangChain, OpenAI / ChatGPT API integration
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HamidRezaSZ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidRezaSZ&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=HamidRezaSZ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamidRezaSZ&layout=compact&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com?user=HamidRezaSZ&theme=dracula)
 
 ## 🤝 Connect with Me
 <a href="https://linkedin.com/in/hamidreza-sadeghzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidreza-sadeghzadeh" height="30" width="40" /></a>
-<a href="mailto:HamidRezaSZ@proton.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:HamidRezaSZ@proton.me" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="30" width="30" /></a>
